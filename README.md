@@ -11,3 +11,5 @@ The client is implemented in C++.
 
 All communication between the clients and the server is according to
 STOMP ‘Simple-Text-Oriented-Messaging-Protocol’.
+
+The main focuses of this Assignment were:Communication Protocols, TPC, Reactor and Synchronization (in c++ & java).
